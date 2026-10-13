@@ -1,0 +1,38 @@
+.stApp {
+    background: #ffffff;
+}
+
+[data-testid="stSidebar"] {
+    background: #ffffff;
+    border-right: 1px solid #e8edf5;
+}
+
+[data-testid="stSidebar"] * {
+    color: #24324b;
+}
+
+.hero {
+    background: linear-gradient(
+        120deg,
+        #ffffff 0%,
+        #f7faff 60%,
+        #edf4ff 100%
+    );
+    padding: 28px 32px;
+    border: 1px solid #e2eaf7;
+    border-radius: 22px;
+    color: #17264d;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    color: #17264d;
+}
+
+.hero p {
+    color: #64748b;
+}
+
+.eyebrow {
+    color: #5276d8;
+}
